@@ -1,5 +1,5 @@
 /**************************************************************************
- File name:		BSTdriver.c
+ File name:		  main.c
  Author:        CS, Pacific University
  Date:          10.29.2021
  Class:         CS300
