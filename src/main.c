@@ -177,9 +177,12 @@ int main() {
 	*/
 
 	printf("\n\nThe deepest node in the tree is at depth:");
+	// Implement bstFindMaxDepth
 	// call bstFindMaxDepth to find the answer.
 
-	bstPrintPostorder(psTree);
+
+	// Implement bstPrintPostorder then uncomment.
+	// bstPrintPostorder(psTree);
 
 	printf("\n\nReached the end!");
 
