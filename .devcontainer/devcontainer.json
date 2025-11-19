@@ -6,14 +6,15 @@
 		"dockerfile": "Dockerfile"
 	},
 	"features": {
-		"ghcr.io/devcontainers-contrib/features/dprint-asdf:2": {}
+		// "ghcr.io/devcontainers-contrib/features/dprint-asdf:2": {}
 	},
 	"customizations": {
 		"vscode": {
 			"extensions": [
 				"vadimcn.vscode-lldb",
 				"ms-vscode.cpptools-extension-pack",
-				"mathematic.vscode-pdf"
+				"mathematic.vscode-pdf",
+				"matepek.vscode-catch2-test-adapter"
 			]
 		}
 	}
